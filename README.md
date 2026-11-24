@@ -2,7 +2,7 @@
 
 A Power BI dashboard that scores the Manpower Allocation team every month against an 8-section KPI sheet (100 marks), and shows the total score and performance rating automatically.
 
-![Dashboard](dashboard.png)
+![Dashboard](Manpower_dashboard_png.png)
 
 ## What it shows
 
