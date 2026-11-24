@@ -27,7 +27,7 @@ A Power BI dashboard that scores the Manpower Allocation team every month agains
 
 ## How to use
 
-1. Open `chenoth llc project.pbix` in Power BI Desktop.
+1. Open `Manpower_KPI_Dashboard.pbix` in Power BI Desktop.
 2. Each month: **Home → Transform data → Source**, add one row with that month's values, then **Close & Apply**.
 3. Pick the month in the Month dropdown.
 
